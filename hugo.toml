@@ -2,3 +2,6 @@ baseURL = 'https://rabitsir.icu/'
 languageCode = 'en-us'
 title = 'My New Hugo Site for rabitsir'
 theme = 'ananke'
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
