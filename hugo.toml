@@ -1,7 +1,0 @@
-baseURL = 'https://rabitsir.icu/'
-languageCode = 'en-us'
-title = 'My New Hugo Site for rabitsir'
-theme = 'PaperMod'
-[caches]
-[caches.images]
-dir = ':cacheDir/images'
